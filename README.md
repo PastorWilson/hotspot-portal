@@ -1,13 +1,26 @@
-#Portal de autenticação para redes Wi-Fi hotspot.
+# Hotspot Portal
 
-O sistema apresenta uma página de login personalizada para usuários
-que se conectam à rede, podendo ser integrado a equipamentos
-de rede para autenticação e controle de acesso.
+Portal de autenticação para redes Wi-Fi com página de login personalizada.
 
-Tecnologias utilizadas:
+Este projeto simula um portal cativo utilizado em redes hotspot para autenticação de usuários antes do acesso à internet.
+
+## Tecnologias utilizadas
+
 - HTML5
 - CSS3
 - JavaScript
 
-O projeto tem como objetivo melhorar a experiência do usuário
-em redes públicas ou corporativas com portal cativo.
+## Funcionalidades
+
+- Página de login personalizada
+- Interface responsiva
+- Estrutura simples para integração com equipamentos de rede
+
+## Objetivo
+
+Melhorar a experiência do usuário em redes Wi-Fi públicas ou corporativas.
+
+## Autor
+
+Matheus  
+GitHub: https://github.com/PastorWilson
